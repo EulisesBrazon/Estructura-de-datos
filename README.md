@@ -1,8 +1,8 @@
 # Estructura-de-datos
-Actividades realizadas en la materia EDD como parte del estudio de la carrera de Ingieneria en Computacion en la Univercidad de Oriente
+Actividades realizadas en la materia EDD como parte del estudio de la carrera de Ingeniería en Computación en la Universidad de Oriente
 
-Dentro de estas actividades, para la asignación de lista doble circular se realizó una presentación donde se explica mas a detalle el funcionamiento de este codigo, 
-en el cual participan: <br />
+
+Dentro de estas actividades, para la asignación de lista doble circular, se realizó una presentación donde se explica más a detalle el funcionamiento de este código, en el cual participan:<br />
 [Kao Lo](https://github.com/kaolof) <br />
 [Karoli Quijada](https://github.com/karoliquijada) <br />
 y <a href="https://github.com/EulisesBrazon" target="_blank">mi persona</a>
