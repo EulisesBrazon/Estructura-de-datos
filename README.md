@@ -1,5 +1,5 @@
 # Estructura-de-datos
-Actividades realizadas en la materia EDD como parte del estudio de la carrera de Ingeniería en Computación en la Universidad de Oriente
+Actividades realizadas en la materia EDD como parte del estudio de la carrera de Ingeniería en Computación en la Universidad de Oriente durante el semestre iniciado el 08-2021
 
 
 Dentro de estas actividades, para la asignación de lista doble circular, se realizó una presentación donde se explica más a detalle el funcionamiento de este código, en el cual participan:<br />
